@@ -1,2 +1,2 @@
-# TemitopeRashidah.github.io
+# http://TemitopeRashidah.github.io
 Personal website
